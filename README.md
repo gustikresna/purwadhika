@@ -1,2 +1,2 @@
 # purwadhika
-Testing pembuatan akun GitHub. Silahkan masukkan narasi project kalian disini
+Testing pembuatan akun GitHub
