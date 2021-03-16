@@ -1,2 +1,2 @@
 # purwadhika
-Testing pembuatan akun GitHub
+Purwadhika Class & Exercise
