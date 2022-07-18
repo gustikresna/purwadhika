@@ -1,2 +1,2 @@
 # purwadhika
-assignments & exam during my study at Data Science program - Purwadhika Digital Technology School
+assignments & exams during my study at Data Science program - Purwadhika Digital Technology School
